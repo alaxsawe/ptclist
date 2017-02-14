@@ -1,0 +1,21 @@
+/* Basic */
+
+	body, input, select, textarea {
+		font-size: 13pt;
+	}
+
+/* Banner */
+
+	#banner {
+		padding: 7em 0em 4em;
+	}
+
+		#banner h2 {
+			font-size: 3.5em;
+		}
+
+/* Footer */
+
+	#footer .icons .rounded {
+		font-size: 1em;
+	}
